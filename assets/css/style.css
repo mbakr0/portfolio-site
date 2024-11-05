@@ -948,7 +948,7 @@ padding-left:10px;
     margin-bottom: 10px;
  }
 
-.portfolio-wrap img {
+.portfolio-wrap a {
     height:200px;
     width:200px;
 }
